@@ -51,7 +51,7 @@ ORCA is a group activity, we encourage you to change your plan often to best mat
 
 ### 4. Be Curious, not Judgemental
 
-Yes, it is from Ted Lasso, but it is important. In open source ecosystems it is easy to demean others in order to show off your competence (think of phrases like "did you even bother to read the documentation" ) but instead our collective goal it to life everyone up. That only happens if you are curious when someone seems to be struggling, rather than just assuming the worse
+Yes, it is from Ted Lasso, but it is important. In open source ecosystems it is easy to demean others in order to show off your competence (think of phrases like "did you even bother to read the documentation" ) but instead our collective goal is to lift everyone up. That only happens if you are curious when someone seems to be struggling, rather than just assuming the worse
 
 ### 5. If you want to go fast, go alone, if you want to go far, go together
 
